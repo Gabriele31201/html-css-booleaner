@@ -6,7 +6,18 @@
     padding: 25px 0px;
 }
 
-.Title-Subtitle{
+p.subtitle{
+    margin-bottom: 0%; margin-top: 0%;
+}
 
-   margin-top: auto; margin-bottom: auto;
+.bg-blue{
+    background-color: rgb(44, 0, 165);
+}
+
+.bg-footer-size{
+    padding: 15px 0px;
+}
+
+.copyright-color{
+    color: white; text-align: center;
 }
