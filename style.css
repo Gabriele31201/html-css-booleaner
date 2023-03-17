@@ -19,3 +19,9 @@ p.subtitle{
 .copyright-color{
     color: white; text-align: center;
 }
+
+
+.ul{
+    padding-left: 0;
+    list-style-position: inside;
+}
