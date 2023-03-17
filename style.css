@@ -11,12 +11,10 @@ p.subtitle{
 }
 
 .bg-blue{
-    background-color: rgb(44, 0, 165);
+    background-color: rgb(44, 0, 165); padding: 10px 0px ;
 }
 
-.bg-footer-size{
-    padding: 15px 0px;
-}
+
 
 .copyright-color{
     color: white; text-align: center;
