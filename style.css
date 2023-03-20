@@ -36,5 +36,14 @@ p.subtitle{
 }
 
 .bg-grey{
-    background-color: rgb(168, 166, 166);
+    background-color: rgb(211, 209, 209);
+}
+
+
+.th{
+    text-align: left;
+}
+
+.margin{
+    margin-left: 20px;
 }
