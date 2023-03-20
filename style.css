@@ -31,3 +31,10 @@ p.subtitle{
     width: 100%;
 }
 
+.bg-azure{
+    background-color: rgb(123, 236, 236);
+}
+
+.bg-grey{
+    background-color: rgb(168, 166, 166);
+}
